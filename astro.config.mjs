@@ -7,7 +7,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://teablogs.github.io',
-	base: '/teablogs'
+	base: '/teablogs',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
