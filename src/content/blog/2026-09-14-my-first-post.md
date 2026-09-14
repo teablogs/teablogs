@@ -25,3 +25,4 @@ My faith in God gives me direction when the path isn't always clear, and reminds
 Perhaps life is less about finding one perfect destination and more about staying curious enough to keep exploring.
 
 So, this blog is a small part of that journey — a place where I can share what I learn, what I discover, and sometimes, simply what I think.
+
