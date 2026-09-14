@@ -1,6 +1,6 @@
 ---
-title: 'Markdown Style Guide'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
+title: 'Between Technology and Life'
+description: 'A blog about believing life is a continuous process of learning.'
 pubDate: 'Sep 14 2026'
 heroImage: '../../assets/2026-09-14-my-first-post.jpg'
 ---
